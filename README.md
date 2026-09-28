@@ -8,7 +8,7 @@
 
 - 🎓 Student in Poland (Poznań University of Technology - Mechatronics)
 - 💻 Full-stack & AI enthusiast  
-- 🌏 I speak: Russian 🇷🇺 | Ukrainian 🇺🇦 | English 🇬🇧 | Polish 🇵🇱 | Learning Chinese 🇨🇳  
+- 🌏 I speak: Russian | Ukrainian | English | Polish | Learning Chinese 
 - 🧩 Interested in: AI, robotics, startups, system design  
 
 ---
